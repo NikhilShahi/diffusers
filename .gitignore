@@ -174,3 +174,7 @@ tags
 .ruff_cache
 
 wandb
+
+# dreambooth generation
+/examples/dreambooth/content
+/examples/dreambooth/output
